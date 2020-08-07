@@ -1,4 +1,4 @@
-# Analyzing-the-probability-of-wages-using-Python
+# Analyzing-the-wages-probability-of-employee-using-Python
 In this project, you are asked to predict whether someone's salary is IDR 7 million based on some information in the dataset columns. Create a classification model to determine the value in column 'salary' with the following conditions:  
 - 0 : Salary &lt;= IDR 7 million 
 - 1 : Salary > IDR 7 million 
